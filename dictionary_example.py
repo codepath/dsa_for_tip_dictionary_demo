@@ -1,4 +1,4 @@
-# A dictionary `ticket_sales``= is used to map ticket type to number of tickets sold. Write a function `total_sales()` that returns the total number of tickets of all types sold.
+# A dictionary `ticket_sales`= is used to map ticket type to number of tickets sold. Write a function `total_sales()` that returns the total number of tickets of all types sold.
 
 def total_sales(ticket_sales):
     pass
